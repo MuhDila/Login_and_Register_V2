@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Login and Register V2</string>
+    <string name="welcome">Welcome,</string>
+    <string name="lorem">Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod
+    </string>
+    <string name="get_started">Get started</string>
+    <string name="sentence_welcome">We\'re delighted to have you on board. Start your journey by logging in or creating
+        a new account.
+    </string>
+</resources>
